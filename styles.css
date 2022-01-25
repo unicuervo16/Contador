@@ -1,0 +1,43 @@
+#div1{
+position: relative;
+background-color: mediumpurple;
+height: 350px;
+width: 350px;
+margin-left: 38%;
+margin-top: 8%;
+border: solid 3px;
+border-color: black;
+border-radius: 15%;
+}
+#h1{
+    margin: 1px;
+    padding: 0px;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(57, 238, 238);
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+#ap{
+    font-size: 70px;
+    margin-left: 0%;
+}
+#btn{
+    margin-top: 25%;
+    margin-left: 5%;
+    height: 50px;
+    width: 150px;
+    background-color: lightslategrey;
+    border: solid 2px;
+    border-radius: 15px;
+    border-color: black;
+    font-size: 30px;
+}
+#btn:hover{
+    background-color: rgb(161, 165, 170);
+    border: solid 4px;
+    border-radius: 10px;
+    border-color: rgb(36, 36, 36);
+}
